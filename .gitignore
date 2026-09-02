@@ -1,0 +1,7 @@
+.local/
+*.log
+*.epub
+*.zip
+__pycache__/
+.DS_Store
+Thumbs.db
